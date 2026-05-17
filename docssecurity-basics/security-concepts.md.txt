@@ -1,0 +1,16 @@
+# Security Basics
+
+## Authentication
+- Authentication means: proving who you are.
+- Example: username + password.
+
+## Authorization
+- Authorization means: deciding what you are allowed to do.
+- Example:
+  - Admin: can delete users.
+  - Normal user: can only view data.
+
+## HTTPS
+- HTTPS is a secure way for browsers and websites to talk.
+- It encrypts data so attackers cannot read it easily.
+- Look for the padlock 🔒 in the browser address bar.
